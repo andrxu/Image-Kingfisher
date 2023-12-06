@@ -10,5 +10,9 @@
 rvm install "ruby-3.2.2" --with-openssl-dir="$(brew --prefix)/opt/openssl@1.1/"
 ```
 
+Install dependency
 
+```
+pod install
+```
 
